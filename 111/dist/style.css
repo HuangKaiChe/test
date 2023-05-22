@@ -1,26 +1,26 @@
 body {background:#EDFDDD;}
 p{ 
-
   background-color: red;
-
   padding-top:50px; 
-
   padding-left:20px; 
-
   padding-right:20px; 
-
   padding-bottom:50px; 
-
   margin-top:50px; 
-
   margin-left:20px; 
-
   margin-right:20px; 
-
   margin-bottom:50px;   
-
 }
 body {
     text-align: center;
     color: black;
 }
+.video-back{ 
+position:fixed;
+top:0;   
+left:0;
+min-width:100%;
+min-height:100%;
+z-index:-1;  
+}
+
+ 
